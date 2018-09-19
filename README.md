@@ -10,6 +10,10 @@ numbers.
 
 4. Mix : This section is bit tough as compared to the above sections because In this section , kids will get some advanced questions.
 
+# Link to Google Playstore
+
+https://play.google.com/store/apps/details?id=game.kamal.com.kidsmathforfree
+
 # Screenshots
 
 ![](images/kidsmath1.png)
@@ -20,7 +24,5 @@ numbers.
 
 ![](images/kidsmath4.png)
 
-# Link to Google Playstore
 
-https://play.google.com/store/apps/details?id=game.kamal.com.kidsmathforfree
 
