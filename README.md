@@ -12,3 +12,15 @@ numbers.
 
 # Screenshots
 
+![](images/kidsmath1.png)
+
+![](images/kidsmath2.png)
+
+![](images/kidsmath3.png)
+
+![](images/kidsmath4.png)
+
+# Link to Google Playstore
+
+https://play.google.com/store/apps/details?id=game.kamal.com.kidsmathforfree
+
