@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kids Math For Free</string>
+    <string name="title_activity_select_game">SelectGameActivity</string>
+</resources>
